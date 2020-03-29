@@ -1,0 +1,2 @@
+rootProject.name='Tremind'
+include ':app'

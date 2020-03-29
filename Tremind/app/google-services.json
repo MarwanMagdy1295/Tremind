@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "717854048508",
+    "firebase_url": "https://fir-project-298cd.firebaseio.com",
+    "project_id": "fir-project-298cd",
+    "storage_bucket": "fir-project-298cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717854048508:android:8b10ab536229183d1a5779",
+        "android_client_info": {
+          "package_name": "com.example.signup_and_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZJGoYPW0KGUhFfpVz4eEGEnD3cwrfiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717854048508:android:8fbeae10f4721a671a5779",
+        "android_client_info": {
+          "package_name": "com.example.tremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZJGoYPW0KGUhFfpVz4eEGEnD3cwrfiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717854048508:android:fc75771ccbf3293d1a5779",
+        "android_client_info": {
+          "package_name": "com.example.trimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717854048508-8onr0931ij5kfi9ah56515ibk28fakov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trimind",
+            "certificate_hash": "95d27c2c3805b7c839cadf3c6b50d61a89cb1749"
+          }
+        },
+        {
+          "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZJGoYPW0KGUhFfpVz4eEGEnD3cwrfiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717854048508-is2l4em2797qjtu56q4cepmr5q06h19o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
